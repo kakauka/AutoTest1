@@ -7,7 +7,7 @@ import loginPage
 
 
 
-@allure.feature('Авторизация111')
+@allure.feature('Авторизация111222')
 @allure.title("Успешная авторизация")
 # @pytest.mark.parametrize("auth", ['testuser'])
 def test_auth_success():
